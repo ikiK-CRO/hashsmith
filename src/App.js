@@ -122,7 +122,6 @@ function App () {
         <h2>Miner Info</h2>
         <p>{modalContent}</p>
       </Modal>
-      <script>console.log(true)</script>
     </div>
   )
 }
